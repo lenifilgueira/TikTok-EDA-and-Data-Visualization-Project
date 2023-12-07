@@ -7,6 +7,8 @@ This project was done as the final assignment of the [Go Beyond the Numbers: Tra
 
 This project's goal is to deeply explore the dataset, distinguishing between claim and opinion videos. Through exploratory data analysis and insightful visualizations, the aim is to derive actionable insights beneficial for data-driven decision-making as part of the final assignment for the course.
 
+For detailed guidance or further inquiries regarding this project's analysis, feel free to reach out!
+
 ## Summary
 
 ### Part 1: Imports, Links, and Loading
@@ -20,6 +22,3 @@ Create professional-grade visualizations using Python with Matplotlib and Seabor
 
 ### Part 4: Evaluate and Share Results
 Evaluate analysis outcomes and extract meaningful insights from the visualizations to aid decision-making for business purposes.
-
-
-For detailed guidance or further inquiries regarding this project's analysis, feel free to reach out!
